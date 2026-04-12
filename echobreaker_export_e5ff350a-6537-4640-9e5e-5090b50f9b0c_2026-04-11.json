@@ -1,0 +1,918 @@
+{
+  "session": {
+    "id": 1,
+    "bubble_score": 0.04,
+    "pages_analyzed": 5,
+    "source_diversity": {
+      "left": 1,
+      "center": 2,
+      "right": 2
+    },
+    "topic_distribution": {
+      "foreign policy": 1,
+      "military conflict": 1,
+      "diplomacy": 1,
+      "iran-us relations": 1,
+      "politics": 2,
+      "sexual misconduct allegations": 1,
+      "california gubernatorial race": 1,
+      "democratic party": 1,
+      "health": 1,
+      "cancer research": 1,
+      "marriage": 1,
+      "epidemiology": 1,
+      "aviation": 1,
+      "emergency landing": 1,
+      "artificial intelligence": 1,
+      "cybersecurity": 1,
+      "financial regulation": 1,
+      "national security": 1,
+      "government policy": 1
+    },
+    "updated_at": "2026-04-11T09:26:56.838Z"
+  },
+  "memories": [
+    {
+      "url": "https://www.theguardian.com/world/live/2026/apr/10/iran-war-live-updates-trump-ceasefire-strait-hormuz-israel-lebanon-hezbollah",
+      "title": "Trump warns of fresh strikes if Iran talks fail – as it happened | US-Israel war on Iran | The Guardian",
+      "content": "President Donald Trump has said that US warships are being reloaded with weaponry to strike Iran if talks in Pakistan fail to produce a deal, in an interview with the New York Post . “We have a reset going. We’re loading up the ships with the best ammunition, the best weapons ever made – even better than what we did previously and we blew them apart,” the Post quoted Trump as saying. “And if we don’t have a deal, we will be using them, and we will be using them very effectively.” He added: double quotation mark We’re going to find out in about 24 hours. We’re going to know soon. In a brief and cryptic message on his Truth Social network earlier, Trump had spoken of the “WORLD’S MOST POWERFUL RESET!!!”",
+      "summary": "President Donald Trump has publicly threatened military action against Iran, stating that US warships are being reloaded with advanced weaponry to be used if ongoing negotiations in Pakistan do not result in a deal within 24 hours.",
+      "framing": "left",
+      "framing_confidence": 0.8,
+      "sentiment": -0.3,
+      "topics": [
+        "foreign policy",
+        "military conflict",
+        "diplomacy",
+        "Iran-US relations"
+      ],
+      "entities": [
+        "Donald Trump",
+        "Iran",
+        "Pakistan",
+        "New York Post",
+        "Truth Social"
+      ],
+      "importance": 0.9,
+      "consolidated": 1,
+      "created_at": "2026-04-11T09:24:20.380Z",
+      "id": 1
+    },
+    {
+      "url": "https://www.foxnews.com/politics/pelosi-california-dems-slam-swalwell-bombshell-sexual-assault-allegations-indefensible",
+      "title": "Pelosi, California Dems slam Swalwell over bombshell sexual assault allegations | Fox News",
+      "content": "close Swalwell pressed on Democrats' resistance to fully funding DHS amid threat from Iran Rep. Eric Swalwell, D-Calif., appeared on CNN and was pressed about whether it's time for Democrats to support funding the Department of Homeland Security to protect the U.S. ‘given this war in Iran.’ NEW You can now listen to Fox News articles! Listen to this article 5 min California Democrats, including former House Speaker Nancy Pelosi, D-Calif., and Sen. Adam Schiff, D-Calif., have come out against Democratic gubernatorial candidate Eric Swalwell after multiple bombshell reports were published Friday accusing Swalwell of sexually assaulting a former female staffer and allegedly sexually harassing other female staffers. Amid repeated denials and cease and desist letters sent by Swalwell's lawyer Thursday, one of the alleged victims shared her story publicly for the first time, accusing Swalwell of taking advantage of her while she was intoxicated. The alleged victim's story also included claims Swalwell pressured her to send naked pictures of herself and sent sexually explicit photos of his own, pulled out his private parts while driving in a car with her and requested she perform oral sex on him. She said these and other incidents affected how Swalwell treated her professionally. SWALWELL'S FORMER FEMALE STAFFER DROPS BOMBSHELL ALLEGATIONS OF SEXUAL ASSAULT, EXPOSING HIMSELF: REPORT On multiple occasions, the young staffer recalls blacking out from alcohol consumption, before waking up naked in Swalwell's hotel bed with signs she had engaged in intercourse. Swalwell allegedly distanced himself after the incident. Their relationship faded before they reunited when she no longer worked for him, and another incident allegedly took place. After the bombshell report from the San Francisco Chronicle surfaced Friday, Swalwell's campaign website displayed an error page for endorsements, and a slew of Democrats withdrew their endorsements and called for Swalwell to drop out of the ",
+      "summary": "Fox News reports on serious sexual assault and harassment allegations against California Democratic gubernatorial candidate Eric Swalwell, noting that prominent Democrats including Nancy Pelosi and Adam Schiff have withdrawn their endorsements and called for him to drop out of the race.",
+      "framing": "right",
+      "framing_confidence": 0.85,
+      "sentiment": -0.7,
+      "topics": [
+        "politics",
+        "sexual misconduct allegations",
+        "California gubernatorial race",
+        "Democratic Party"
+      ],
+      "entities": [
+        "Eric Swalwell",
+        "Nancy Pelosi",
+        "Adam Schiff",
+        "Fox News",
+        "San Francisco Chronicle"
+      ],
+      "importance": 0.8,
+      "consolidated": 1,
+      "created_at": "2026-04-11T09:24:54.420Z",
+      "id": 2
+    },
+    {
+      "url": "https://www.foxnews.com/health/marriage-status-surprising-link-cancer-risk-study-suggests-clear-signal",
+      "title": "Never-married adults could face higher cancer risk, study suggests | Fox News",
+      "content": "close Marriage linked to lower cancer risk, study finds Dr. Namrata Vijayvergia, a medical oncologist, shares insights into recent studies on health and lifestyle, explaining why marriage correlates with lower cancer risk due to better social support and healthy behaviors. NEW You can now listen to Fox News articles! Listen to this article 3 min Adults who never married are significantly more likely to develop cancer , according to new research from the University of Miami. A large study of more than 4 million Americans across 12 states found that this increased risk spans nearly every major cancer type. It is especially true for preventable cancers, such as types caused by smoking and infection. Men who never married were found to have a 70% higher likelihood of cancer than their married counterparts. For women, that gap was even wider, with never-married individuals facing an 85% higher risk. EATING MORE OF CERTAIN TYPE OF FOOD COULD SHORTEN CANCER SURVIVORS' LIVES, STUDY FINDS Previous research has linked marriage to better survival rates after a diagnosis, but this is one of the first studies to show that marital status could be a major indicator of whether a person will develop cancer in the first place. \"These findings suggest that social factors such as marital status may serve as important markers of cancer risk at the population level,\" study co-author Paulo Pinheiro, a research professor of epidemiology at the University of Miami Miller School of Medicine, said in a press release. Adults who never married are significantly more likely to develop cancer, according to new research from the University of Miami. (Getty Images) Between 2015 and 2022, the team examined cancer cases diagnosed at age 30 or older and compared the rates of various cancers to the marital status of participants. They then broke down the data by sex and race and adjusted for age. CLICK HERE TO SIGN UP FOR OUR HEALTH NEWSLETTER Adult men who were never married had approximately five tim",
+      "summary": "A study from the University of Miami involving 4 million Americans suggests that never-married adults face a higher risk of developing various types of cancer compared to their married counterparts, potentially due to social support, lifestyle factors, and biological differences.",
+      "framing": "center",
+      "framing_confidence": 0.8,
+      "sentiment": -0.1,
+      "topics": [
+        "health",
+        "cancer research",
+        "marriage",
+        "epidemiology"
+      ],
+      "entities": [
+        "University of Miami",
+        "Fox News",
+        "Paulo Pinheiro",
+        "Frank Penedo",
+        "Cancer Research Communications"
+      ],
+      "importance": 0.6,
+      "consolidated": 1,
+      "created_at": "2026-04-11T09:25:13.763Z",
+      "id": 3
+    },
+    {
+      "url": "https://www.foxnews.com/politics/sen-tim-sheehy-makes-emergency-landing-in-flight-engine-failure",
+      "title": "Sen Tim Sheehy makes emergency landing in Montana after engine failure | Fox News",
+      "content": "close Sen Tim Sheehy on Iran's capabilities being degraded, counter-drone efforts Dana Perino interviews Sen. Tim Sheehy, R-Mont., about the U.S. response to Iran's aggression, the degradation of Iran's military capabilities and the technological challenges of countering Iranian drones. NEW You can now listen to Fox News articles! Listen to this article 1 min Sen. Tim Sheehy, R-Mont. , was forced to make an emergency landing Friday after experiencing in-flight engine failure while piloting a plane. According to Sheehy’s chief of staff, Mike Berg, the senator was conducting a routine flight training exercise that he completes twice a year. \"This afternoon, Sen. Sheehy was engaged in a routine flight training exercise which he completes twice a year,\" Berg said in a statement. \"The aircraft experienced a mechanical engine failure.\" Berg said Sheehy and his co-pilot made an emergency landing in a field. EMERGENCY LANDING ENDS IN TRAGEDY AS PLANE CRASHES ON NEW MEXICO GOLF COURSE Sen. Tim Sheehy, R-Mont., safely landed a plane in a field after a mechanical engine failure during a training flight. (Tom Williams/CQ-Roll Call, Inc via Getty Images) \"Neither pilot was injured ,\" he added. PLANE DOOR OPENS IN MIDAIR MOMENTS AFTER TAKEOFF, LEAVING FLIGHT PASSENGERS STUNNED AND SOCIAL MEDIA BUZZING Sen. Tim Sheehy, R-Mont., was not injured after making an emergency landing due to engine failure. (Reut3ers/Mike Segar) The plane landed in a field in Ennis, Montana, according to KBZK. The outlet reported that Sheehy is an FAA-certified commercial pilot and certified flight instructor. CLICK HERE TO DOWNLOAD THE FOX NEWS APP Sen. Tim Sheehy, R-Mont., made an emergency landing after the plane he was piloting experienced in-flight engine failure. (Andrew Harnik/Getty Images) Reached for comment, Sheehy’s office referred Fox News Digital to Berg’s statement. This is a developing story. Please check back for updates. Michael Sinkewicz is a writer for Fox News Digital. Story tips can b",
+      "summary": "Senator Tim Sheehy, a Republican from Montana, safely performed an emergency landing in a field after his plane experienced a mechanical engine failure during a routine training flight. No injuries were reported.",
+      "framing": "center",
+      "framing_confidence": 0.9,
+      "sentiment": 0,
+      "topics": [
+        "aviation",
+        "politics",
+        "emergency landing"
+      ],
+      "entities": [
+        "Tim Sheehy",
+        "Mike Berg",
+        "Fox News",
+        "Montana"
+      ],
+      "importance": 0.4,
+      "consolidated": 1,
+      "created_at": "2026-04-11T09:25:31.904Z",
+      "id": 4
+    },
+    {
+      "url": "https://www.foxnews.com/politics/bessent-powell-summon-wall-street-ceos-emergency-pentagon-anthropic-ai-risks-pentagon-dispute",
+      "title": "Bessent, Powell warn Wall Street leaders of Anthropic AI risks, report says | Fox News",
+      "content": "close Anthropic’s new ‘Mythos Preview’ sparks AI concerns Fox News senior national correspondent Rich Edson says the model currently ‘has no plans’ to be publicly available on ‘Special Report.’ NEW You can now listen to Fox News articles! Listen to this article 4 min Treasury Secretary Scott Bessent and Federal Reserve Chair Jerome Powell summoned Wall Street bank heads to Washington, D.C., on Tuesday for a flash meeting to warn them of cybersecurity threats posed by AI giant Anthropic, according to a Thursday night report from Bloomberg. Bessent and Powell convened the last-minute meeting at Treasury's D.C. headquarters in order to ensure the banks were ready to guard against risks from Anthropic's latest model, Claude Mythos Preview, a powerful new AI model that experts warn marks a profound shift in the technology. Each bank summoned is marked by the Fed as \"structurally important\" to the global financial system. The attendees included chief executives from Goldman Sachs, Citigroup, Morgan Stanley, Bank of America and Wells Fargo. Bank of America CEO Brian Moynihan was in attendance, a source with knowledge of his schedule told Fox News Digital. Spokespeople for Goldman Sachs and Wells Fargo declined to comment. Citigroup and Morgan Stanley did not immediately respond to requests for comment. PENTAGON’S AI BATTLE WILL HELP DECIDE WHO CONTROLS OUR MOST POWERFUL MILITARY TECH JPMorgan Chase Chairman and CEO Jamie Dimon speaks onstage during day two of the America Business Forum at the Kaseya Center in Miami, Florida, on Nov. 6, 2025. (Alexander Tamargo/Getty Images) JPMorgan Chase CEO Jamie Dimon was also summoned but was unable to attend, Bloomberg reported, citing sources familiar. JPMorgan, notably, is a member of Anthropic's \"Project Glasswing,\" an initiative to use Mythos as a defense against future similar models. JPMorgan did not immediately respond to a request for comment. Mythos has garnered a swell of intrigue online thanks to Anthropic's claims that the",
+      "summary": "Treasury Secretary Scott Bessent and Federal Reserve Chair Jerome Powell held an emergency meeting with major Wall Street CEOs to address cybersecurity risks posed by Anthropic's new AI model, Claude Mythos. The report highlights concerns regarding the model's ability to identify software vulnerabilities and details the ongoing tension between the Trump administration and Anthropic following the termination of a Pentagon contract.",
+      "framing": "right",
+      "framing_confidence": 0.75,
+      "sentiment": -0.2,
+      "topics": [
+        "Artificial Intelligence",
+        "Cybersecurity",
+        "Financial Regulation",
+        "National Security",
+        "Government Policy"
+      ],
+      "entities": [
+        "Scott Bessent",
+        "Jerome Powell",
+        "Anthropic",
+        "Pete Hegseth",
+        "Claude Mythos",
+        "Fox News",
+        "Bloomberg"
+      ],
+      "importance": 0.8,
+      "consolidated": 0,
+      "created_at": "2026-04-11T09:26:56.837Z",
+      "id": 5
+    }
+  ],
+  "consolidations": [
+    {
+      "memory_ids": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "connections": [
+        {
+          "from_id": 1,
+          "to_id": 2,
+          "reason": "Both articles focus on high-stakes political accountability and crisis management, but contrast the international military posturing of a Republican administration with the internal moral policing of the Democratic party."
+        }
+      ],
+      "insight": "Your information diet is currently bifurcated between alarmist international military reporting from left-leaning outlets and domestic political scandal coverage from right-leaning sources, creating a feedback loop of institutional distrust.",
+      "recommendations": [
+        "Read neutral, long-form investigative journalism from Reuters or AP regarding the Iran-US diplomatic negotiations to bypass the Guardian's framing.",
+        "Consult non-partisan political analysis from the Cook Political Report to understand the California gubernatorial race dynamics without the partisan lens of Fox News.",
+        "Diversify your health news intake by subscribing to peer-reviewed medical journals or summaries from the NIH to contextualize epidemiological studies."
+      ],
+      "created_at": "2026-04-11T09:25:37.084Z",
+      "id": 1
+    }
+  ],
+  "feedback": [],
+  "events": [
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:16:31.741Z",
+      "event_type": "research_consent",
+      "context": {
+        "participantId": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+        "condition": "full"
+      },
+      "id": 1
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:17:14.185Z",
+      "event_type": "dashboard_view",
+      "context": {},
+      "id": 2
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:17:15.944Z",
+      "event_type": "sidepanel_open",
+      "context": {},
+      "id": 3
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:17:20.866Z",
+      "event_type": "dashboard_view",
+      "context": {},
+      "id": 4
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:17:28.435Z",
+      "event_type": "dashboard_view",
+      "context": {},
+      "id": 5
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:17:33.151Z",
+      "event_type": "dashboard_view",
+      "context": {},
+      "id": 6
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:17:37.117Z",
+      "event_type": "dashboard_view",
+      "context": {},
+      "id": 7
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:17:41.310Z",
+      "event_type": "settings_open",
+      "context": {},
+      "id": 8
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:22:02.341Z",
+      "event_type": "settings_open",
+      "context": {},
+      "id": 9
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:22:02.893Z",
+      "event_type": "settings_open",
+      "context": {},
+      "id": 10
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:22:03.276Z",
+      "event_type": "settings_open",
+      "context": {},
+      "id": 11
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:22:15.293Z",
+      "event_type": "settings_open",
+      "context": {},
+      "id": 12
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:22:16.942Z",
+      "event_type": "settings_open",
+      "context": {},
+      "id": 13
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:22:17.126Z",
+      "event_type": "settings_open",
+      "context": {},
+      "id": 14
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:22:17.275Z",
+      "event_type": "settings_open",
+      "context": {},
+      "id": 15
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:22:34.944Z",
+      "event_type": "dashboard_view",
+      "context": {},
+      "id": 16
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:22:37.209Z",
+      "event_type": "sidepanel_open",
+      "context": {},
+      "id": 17
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:22:40.983Z",
+      "event_type": "dashboard_view",
+      "context": {},
+      "id": 18
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:22:42.339Z",
+      "event_type": "consolidation_trigger",
+      "context": {},
+      "id": 19
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:22:44.757Z",
+      "event_type": "settings_open",
+      "context": {},
+      "id": 20
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:23:25.623Z",
+      "event_type": "dashboard_view",
+      "context": {},
+      "id": 21
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:23:26.853Z",
+      "event_type": "consolidation_trigger",
+      "context": {},
+      "id": 22
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:23:27.958Z",
+      "event_type": "consolidation_trigger",
+      "context": {},
+      "id": 23
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:23:28.308Z",
+      "event_type": "consolidation_trigger",
+      "context": {},
+      "id": 24
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:23:29.518Z",
+      "event_type": "settings_open",
+      "context": {},
+      "id": 25
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:23:41.273Z",
+      "event_type": "dashboard_view",
+      "context": {},
+      "id": 26
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:23:42.523Z",
+      "event_type": "consolidation_trigger",
+      "context": {},
+      "id": 27
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:23:42.526Z",
+      "event_type": "dashboard_view",
+      "context": {},
+      "id": 28
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:23:48.905Z",
+      "event_type": "dashboard_view",
+      "context": {},
+      "id": 29
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:23:51.289Z",
+      "event_type": "consolidation_trigger",
+      "context": {},
+      "id": 30
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:23:51.292Z",
+      "event_type": "dashboard_view",
+      "context": {},
+      "id": 31
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:24:06.500Z",
+      "event_type": "settings_open",
+      "context": {},
+      "id": 32
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:24:17.967Z",
+      "event_type": "page_visit",
+      "context": {
+        "title": "Trump warns of fresh strikes if Iran talks fail – as it happened | US-Israel war on Iran | The Guardian",
+        "url_hash": "079db70e8cf0951f"
+      },
+      "id": 33
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:24:17.971Z",
+      "event_type": "analyze_start",
+      "context": {
+        "title": "Trump warns of fresh strikes if Iran talks fail – as it happened | US-Israel war on Iran | The Guardian",
+        "url_hash": "079db70e8cf0951f"
+      },
+      "id": 34
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:24:20.384Z",
+      "event_type": "analyze_complete",
+      "context": {
+        "memory_id": 1,
+        "framing": "left",
+        "framing_confidence": 0.8,
+        "topics": [
+          "foreign policy",
+          "military conflict",
+          "diplomacy",
+          "Iran-US relations"
+        ],
+        "bubble_score": 1,
+        "perspective_count": 3,
+        "url_hash": "079db70e8cf0951f"
+      },
+      "id": 35
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:24:28.413Z",
+      "event_type": "dashboard_view",
+      "context": {},
+      "id": 36
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:24:32.036Z",
+      "event_type": "consolidation_trigger",
+      "context": {},
+      "id": 37
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:24:32.046Z",
+      "event_type": "dashboard_view",
+      "context": {},
+      "id": 38
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:24:52.628Z",
+      "event_type": "page_visit",
+      "context": {
+        "title": "Pelosi, California Dems slam Swalwell over bombshell sexual assault allegations | Fox News",
+        "url_hash": "20139c8898c39f34"
+      },
+      "id": 39
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:24:52.631Z",
+      "event_type": "analyze_start",
+      "context": {
+        "title": "Pelosi, California Dems slam Swalwell over bombshell sexual assault allegations | Fox News",
+        "url_hash": "20139c8898c39f34"
+      },
+      "id": 40
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:24:54.422Z",
+      "event_type": "analyze_complete",
+      "context": {
+        "memory_id": 2,
+        "framing": "right",
+        "framing_confidence": 0.85,
+        "topics": [
+          "politics",
+          "sexual misconduct allegations",
+          "California gubernatorial race",
+          "Democratic Party"
+        ],
+        "bubble_score": 0.369,
+        "perspective_count": 0,
+        "url_hash": "20139c8898c39f34"
+      },
+      "id": 41
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:24:55.291Z",
+      "event_type": "dashboard_view",
+      "context": {},
+      "id": 42
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:25:02.470Z",
+      "event_type": "consolidation_trigger",
+      "context": {},
+      "id": 43
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:25:02.500Z",
+      "event_type": "dashboard_view",
+      "context": {},
+      "id": 44
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:25:11.491Z",
+      "event_type": "page_visit",
+      "context": {
+        "title": "Never-married adults could face higher cancer risk, study suggests | Fox News",
+        "url_hash": "2429b14cf48ccf77"
+      },
+      "id": 45
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:25:11.492Z",
+      "event_type": "analyze_start",
+      "context": {
+        "title": "Never-married adults could face higher cancer risk, study suggests | Fox News",
+        "url_hash": "2429b14cf48ccf77"
+      },
+      "id": 46
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:25:12.789Z",
+      "event_type": "dashboard_view",
+      "context": {},
+      "id": 47
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:25:13.765Z",
+      "event_type": "analyze_complete",
+      "context": {
+        "memory_id": 3,
+        "framing": "center",
+        "framing_confidence": 0.8,
+        "topics": [
+          "health",
+          "cancer research",
+          "marriage",
+          "epidemiology"
+        ],
+        "bubble_score": 0,
+        "perspective_count": 0,
+        "url_hash": "2429b14cf48ccf77"
+      },
+      "id": 48
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:25:19.274Z",
+      "event_type": "dashboard_view",
+      "context": {},
+      "id": 49
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:25:29.692Z",
+      "event_type": "page_visit",
+      "context": {
+        "title": "Sen Tim Sheehy makes emergency landing in Montana after engine failure | Fox News",
+        "url_hash": "85afe6b3fd6cbf05"
+      },
+      "id": 50
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:25:29.700Z",
+      "event_type": "analyze_start",
+      "context": {
+        "title": "Sen Tim Sheehy makes emergency landing in Montana after engine failure | Fox News",
+        "url_hash": "85afe6b3fd6cbf05"
+      },
+      "id": 51
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:25:31.920Z",
+      "event_type": "analyze_complete",
+      "context": {
+        "memory_id": 4,
+        "framing": "center",
+        "framing_confidence": 0.9,
+        "topics": [
+          "aviation",
+          "politics",
+          "emergency landing"
+        ],
+        "bubble_score": 0.054,
+        "perspective_count": 0,
+        "url_hash": "85afe6b3fd6cbf05"
+      },
+      "id": 52
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:25:32.174Z",
+      "event_type": "dashboard_view",
+      "context": {},
+      "id": 53
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:25:34.000Z",
+      "event_type": "consolidation_trigger",
+      "context": {},
+      "id": 54
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:25:37.092Z",
+      "event_type": "consolidation_complete",
+      "context": {
+        "consolidation_id": 1,
+        "memory_count": 4,
+        "recommendation_count": 3
+      },
+      "id": 55
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:25:37.095Z",
+      "event_type": "dashboard_view",
+      "context": {},
+      "id": 56
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:26:10.970Z",
+      "event_type": "dashboard_view",
+      "context": {},
+      "id": 57
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:26:13.042Z",
+      "event_type": "dashboard_view",
+      "context": {},
+      "id": 58
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:26:31.672Z",
+      "event_type": "dashboard_view",
+      "context": {},
+      "id": 59
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:26:54.557Z",
+      "event_type": "page_visit",
+      "context": {
+        "title": "Bessent, Powell warn Wall Street leaders of Anthropic AI risks, report says | Fox News",
+        "url_hash": "d6d24e484fd9c413"
+      },
+      "id": 60
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:26:54.560Z",
+      "event_type": "analyze_start",
+      "context": {
+        "title": "Bessent, Powell warn Wall Street leaders of Anthropic AI risks, report says | Fox News",
+        "url_hash": "d6d24e484fd9c413"
+      },
+      "id": 61
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:26:56.840Z",
+      "event_type": "analyze_complete",
+      "context": {
+        "memory_id": 5,
+        "framing": "right",
+        "framing_confidence": 0.75,
+        "topics": [
+          "Artificial Intelligence",
+          "Cybersecurity",
+          "Financial Regulation",
+          "National Security",
+          "Government Policy"
+        ],
+        "bubble_score": 0.04,
+        "perspective_count": 1,
+        "url_hash": "d6d24e484fd9c413"
+      },
+      "id": 62
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:26:58.233Z",
+      "event_type": "dashboard_view",
+      "context": {},
+      "id": 63
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:27:03.417Z",
+      "event_type": "consolidation_trigger",
+      "context": {},
+      "id": 64
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:27:03.425Z",
+      "event_type": "dashboard_view",
+      "context": {},
+      "id": 65
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:27:29.902Z",
+      "event_type": "consolidation_trigger",
+      "context": {},
+      "id": 66
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:27:29.910Z",
+      "event_type": "dashboard_view",
+      "context": {},
+      "id": 67
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:27:47.920Z",
+      "event_type": "dashboard_view",
+      "context": {},
+      "id": 68
+    },
+    {
+      "session_id": "54369e9b-1e8b-4c13-8b1b-335c50540fd7",
+      "participant_id": "e5ff350a-6537-4640-9e5e-5090b50f9b0c",
+      "condition": "full",
+      "timestamp": "2026-04-11T09:27:49.364Z",
+      "event_type": "settings_open",
+      "context": {},
+      "id": 69
+    }
+  ]
+}
