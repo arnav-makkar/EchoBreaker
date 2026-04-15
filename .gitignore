@@ -6,3 +6,5 @@ dist
 .env.local
 .vite
 coverage
+BUILD_PLAN.md
+echobreaker_export_*.json
