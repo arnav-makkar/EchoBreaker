@@ -4,7 +4,7 @@ Final Project for Human-AI Interaction, Winter 2026
 
 [Pitch Deck (PDF)](./EchoBreaker.pdf)
 
-[Demo Video](https://drive.google.com/file/d/1sQN-Qm0HSfVMwR8N9qQeu26dibp-sRaO/view?usp=sharing)
+[Short Video Ad](https://drive.google.com/file/d/1sQN-Qm0HSfVMwR8N9qQeu26dibp-sRaO/view?usp=sharing)
 
 EchoBreaker is a local-first Chrome extension for spotting media framing and exposing filter bubbles while you read the news. It analyzes supported articles with Gemini, labels framing as `left`, `center`, `right`, or `unclear`, and turns your recent reading into a live bubble score.
 
@@ -95,6 +95,5 @@ Research mode is optional and off by default. If enabled from the Options page, 
 
 ## Limitations
 
-- AI framing labels can be wrong
 - `left`, `center`, and `right` are simplified categories, especially for Indian political coverage
 - EchoBreaker only works on supported article pages, not homepages or section listings
