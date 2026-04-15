@@ -20,6 +20,15 @@ Everything runs inside the extension. Your data stays in the browser, and the on
 - Lets users reflect on recent reading patterns
 - Supports optional research enrollment and local data export
 
+Screenshots:
+
+![right1](./screenshots/right1.png)
+![right2](./screenshots/right2.png)
+![left1](./screenshots/left1.png)
+![left2](./screenshots/left2.png)
+
+![settings](./screenshots/settings.png)
+
 ## Quick start
 
 ### 1. Install dependencies
